@@ -5,6 +5,7 @@ String name;
 
 demo
 {
+System.out.println("hello anjana");
 }
 };
 
